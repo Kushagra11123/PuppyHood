@@ -1,0 +1,22 @@
+body {
+  height: 100vh;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+  overflow: scroll;
+}
+
+.footer {
+  padding-top: 10px;
+  padding-bottom: 0px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  left: 0;
+
+  height: 40px;
+  background-color: black;
+  color: aliceblue;
+  margin-top: 20px;
+}
